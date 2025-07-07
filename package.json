@@ -7,10 +7,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Guadix27/boilerplate-npm.git"
   }
 }
+
 
