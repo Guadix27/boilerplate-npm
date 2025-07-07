@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Guadalupe Dominguez",
+  "author": "Guadalupe",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -13,3 +13,4 @@
     "url": "https://github.com/Guadix27/boilerplate-npm.git"
   }
 }
+
